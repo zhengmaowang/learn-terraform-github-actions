@@ -12,6 +12,7 @@ env:
   CONFIG_DIRECTORY: "./"
 
 
+
 jobs:
   terraform:
     if: github.repository != 'hashicorp-education/learn-terraform-github-actions'
